@@ -1,0 +1,88 @@
+@charset "UTF-8";
+#lavender{ 
+	margin-top: -400px;
+	background-color:rgba(255,255,255,0.4);
+	height:250px;
+}
+#flowers{
+	margin-top: 120px;
+	margin-left:60px;
+	margin-right:60px;
+}
+#flowerintro, #greenintro, #first, #where, #about{
+	font-family:"Poppins", sans-serif;
+	font-size:36px;
+	}
+h3{
+	font-size:24px;
+	margin-top:20px;
+	color:black;
+	font-family:"Poppins", sans-serif;
+}
+p{
+	font-size:18px;
+	color:black;
+	font-family:"Nunito",sans-serif;
+}
+#herbs{
+	margin-top: 120px;
+	margin-left:60px;
+	margin-right:60px;
+}
+#Hostas, #autumn {
+	margin-top: 20px;
+	margin-left:60px;
+	margin-right:60px;
+}
+body{
+	margin-top:120px;
+}
+.container{
+	margin-bottom:20px;
+}
+#fronttitle{
+	font-family:"Poppins", sans-serif;
+	font-size:50px;
+	margin-top:60px;
+}
+h2{
+	font-family:"Poppins", sans-serif;
+	font-size:22px;
+	font-weight:normal;
+	color: #363737;
+}
+.btn{
+	background-color: #c1c0ea;
+  	color: #363737;
+  	font-size:18px;
+  	text-align: center;
+  	text-decoration: none;
+  	border: none;
+  	display: inline-block;
+  	transition-duration: 0.4s;
+}
+.btn:hover {
+  background-color: #cdd9a7;
+  color: black !important;
+}
+.navbar, #footer{
+	background-color:#f6eced;
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+#footer{
+	padding-left: 40px;
+	padding-right:40px;
+	padding-bottom: 20px;
+	padding-top:20px;
+	margin-top:30px;
+}
+#first{
+	font-family:"Poppins", sans-serif !important;
+}
